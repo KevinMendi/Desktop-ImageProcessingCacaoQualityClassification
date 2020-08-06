@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.exe.config
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.exe
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.pdb
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.xml
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.Resources.resources
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.exe
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.xml
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.pdb
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.frm_login.resources
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.frm_Main.resources
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.dll
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.xml
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Desktop\Python try\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.exe.config
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.exe
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.pdb
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.frm_login.resources
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.frm_Main.resources
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.Resources.resources
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.exe
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.pdb
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\Thesis1_V1.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.dll
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\AForge.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.exe.licenses
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\bin\Debug\WinFormAnimation.xml
+C:\Users\User\Desktop\Python try\thesis 1(rev)\Thesis1_V1\Thesis1_V1\obj\Debug\Thesis1_V1.Results.resources
